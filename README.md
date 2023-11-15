@@ -1,4 +1,4 @@
-![SPOTIFY](spotify.png) 
+![SPOTIFY](image.png) 
 
 # Predicting Hits on Spotify using Machine Learning
 #### Authors: Adithya Bhonsley, Prayaag Gupta, Benjamin Wang, Dinesh Polisetty 
